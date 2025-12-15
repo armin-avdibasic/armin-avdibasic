@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amrin
+# 👋 Hi, I'm Armin
 
 🎓 3rd-year computer science student in Nova Gorica.  
 💻 Currently learning **Java** and **SQL**.  
